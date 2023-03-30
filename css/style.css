@@ -102,11 +102,12 @@ textarea{
 }
 
 .btn-submit{
-    background-color: #673AB7;
+    background-color: black;
     color: #FFF;
     border: 2px solid transparent;
     width: 150px;
     height: 50;
+    font-weight: bolder;
     text-transform: uppercase;
     cursor: pointer;
     transition: .5s;
@@ -114,6 +115,6 @@ textarea{
 
 .btn-submit:hover{
     background-color: #FFF;
-    border-color: #673AB7;
-    color: #673AB7;
+    border-color: black;
+    color: black;
 }
